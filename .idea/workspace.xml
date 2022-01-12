@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:back" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ade4d273-8d4a-4d62-a62c-15984552edd7" name="Default Changelist" comment="hhp完善content接口的功能">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Controller/ContentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Controller/ContentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Controller/CourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Dao/CourseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Dao/CourseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Model/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Service/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Service/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/CourseDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/CourseDao.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="back" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/back" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/demo/Base/BaseEntity.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\admin\.m2\wrapper\dists\apache-maven-3.8.1-bin\2l5mhf2pq2clrde7f7qp1rdt5m\apache-maven-3.8.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r6QlrsvLPoE7eeOvDJd6RtBjwP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/example/demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.demo" />
+      <recent name="com.example.demo.util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\suiji\demo" />
+      <recent name="E:\suiji\demo\suiji_demo" />
+      <recent name="E:\suiji\demo\suiji-demo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ade4d273-8d4a-4d62-a62c-15984552edd7" name="Default Changelist" comment="" />
+      <created>1618294214843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618294214843</updated>
+      <workItem from="1618294217145" duration="3092000" />
+      <workItem from="1618299201321" duration="3329000" />
+      <workItem from="1618304353342" duration="3324000" />
+      <workItem from="1618390338436" duration="3928000" />
+      <workItem from="1618499040394" duration="1275000" />
+      <workItem from="1618754877785" duration="1200000" />
+      <workItem from="1618898113756" duration="9648000" />
+      <workItem from="1619089159295" duration="5059000" />
+      <workItem from="1620356033202" duration="6000" />
+      <workItem from="1620832320835" duration="13000000" />
+      <workItem from="1621406912355" duration="1584000" />
+      <workItem from="1621573279927" duration="28420000" />
+      <workItem from="1621951998806" duration="24302000" />
+      <workItem from="1622036020163" duration="2441000" />
+      <workItem from="1622109719912" duration="1208000" />
+      <workItem from="1622112708058" duration="15816000" />
+      <workItem from="1622251932913" duration="849000" />
+      <workItem from="1622279705307" duration="19107000" />
+    </task>
+    <task id="LOCAL-00001" summary="删除readme">
+      <created>1618404131502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618404131502</updated>
+    </task>
+    <task id="LOCAL-00002" summary="删除多余文件">
+      <created>1618404224961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618404224961</updated>
+    </task>
+    <task id="LOCAL-00003" summary="配置+添加course接口">
+      <created>1621953674825</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621953674825</updated>
+    </task>
+    <task id="LOCAL-00004" summary="配置+添加student接口">
+      <created>1622012288835</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622012288835</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hhp配置+添加content接口，并对course接口有一些修改">
+      <created>1622036327505</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622036327505</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hhp修改关于返回数据多出一个id的问题">
+      <created>1622110489957</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622110489957</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hhp修改关于配置文件的一些问题并添加course接口的错误">
+      <created>1622184602235</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622184602235</updated>
+    </task>
+    <task id="LOCAL-00008" summary="王晶睿添加了鸡汤接口">
+      <created>1622190035306</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622190035306</updated>
+    </task>
+    <task id="LOCAL-00009" summary="王晶睿添加了待办接口">
+      <created>1622194925447</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622194925447</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hhp修改了待办接口，将鸡汤接口进行了更新操作">
+      <created>1622339411801</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622339411801</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hhp完善content接口的功能">
+      <created>1622345989544</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622345989544</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="back" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="back" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="删除readme" />
+    <MESSAGE value="删除多余文件" />
+    <MESSAGE value="配置+添加course接口" />
+    <MESSAGE value="配置+添加student接口" />
+    <MESSAGE value="hhp配置+添加content接口，并对course接口有一些修改" />
+    <MESSAGE value="hhp修改关于返回数据多出一个id的问题" />
+    <MESSAGE value="hhp修改关于配置文件的一些问题并添加course接口的错误" />
+    <MESSAGE value="王晶睿添加了鸡汤接口" />
+    <MESSAGE value="王晶睿添加了待办接口" />
+    <MESSAGE value="hhp修改了待办接口，将鸡汤接口进行了更新操作" />
+    <MESSAGE value="hhp完善content接口的功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="hhp完善content接口的功能" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="246" y="0" width="755" height="783" key="#&lt;template&gt;_of_Spring_Boot" timestamp="1621774296287">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="246" y="0" width="755" height="783" key="#&lt;template&gt;_of_Spring_Boot/0.0.1234.783@0.0.1234.783" timestamp="1621774296287" />
+    <state x="246" y="0" width="755" height="783" key="#DemoApplication" timestamp="1621774344094">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="246" y="0" width="755" height="783" key="#DemoApplication/0.0.1234.783@0.0.1234.783" timestamp="1621774344094" />
+    <state x="98" y="0" key="#Project_Structure" timestamp="1621841663410">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="98" y="0" key="#Project_Structure/0.0.1234.783@0.0.1234.783" timestamp="1621841663410" />
+    <state x="0" y="233" key="#SQL_Dialects" timestamp="1622034903738">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="0" y="233" key="#SQL_Dialects/0.0.1234.783@0.0.1234.783" timestamp="1622034903738" />
+    <state x="348" y="146" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1618985546007">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="348" y="146" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1234.783@0.0.1234.783" timestamp="1618985546007" />
+    <state x="72" y="46" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622036044142">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="72" y="46" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1234.783@0.0.1234.783" timestamp="1622036044142" />
+    <state x="423" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1621404581223">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="423" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1234.783@0.0.1234.783" timestamp="1621404581223" />
+    <state x="305" y="314" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1621404377107">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="305" y="314" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1234.783@0.0.1234.783" timestamp="1621404377107" />
+    <state x="395" y="258" width="444" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1622017750993">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="395" y="258" width="444" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1234.783@0.0.1234.783" timestamp="1622017750993" />
+    <state x="348" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621948268268">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="348" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1234.783@0.0.1234.783" timestamp="1621948268268" />
+    <state x="360" y="84" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1622034379354">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="360" y="84" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1234.783@0.0.1234.783" timestamp="1622034379354" />
+    <state x="398" y="132" key="FileChooserDialogImpl" timestamp="1622112941650">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="398" y="132" key="FileChooserDialogImpl/0.0.1234.783@0.0.1234.783" timestamp="1622112941650" />
+    <state width="1176" height="79" key="GridCell.Tab.0.bottom" timestamp="1622364871416">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1176" height="79" key="GridCell.Tab.0.bottom/0.0.1234.783@0.0.1234.783" timestamp="1622364871416" />
+    <state width="1176" height="79" key="GridCell.Tab.0.center" timestamp="1622364871415">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1176" height="79" key="GridCell.Tab.0.center/0.0.1234.783@0.0.1234.783" timestamp="1622364871415" />
+    <state width="1176" height="79" key="GridCell.Tab.0.left" timestamp="1622364871415">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1176" height="79" key="GridCell.Tab.0.left/0.0.1234.783@0.0.1234.783" timestamp="1622364871415" />
+    <state width="1176" height="79" key="GridCell.Tab.0.right" timestamp="1622364871415">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1176" height="79" key="GridCell.Tab.0.right/0.0.1234.783@0.0.1234.783" timestamp="1622364871415" />
+    <state width="1176" height="79" key="GridCell.Tab.1.bottom" timestamp="1622364871416">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1176" height="79" key="GridCell.Tab.1.bottom/0.0.1234.783@0.0.1234.783" timestamp="1622364871416" />
+    <state width="1176" height="79" key="GridCell.Tab.1.center" timestamp="1622364871416">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1176" height="79" key="GridCell.Tab.1.center/0.0.1234.783@0.0.1234.783" timestamp="1622364871416" />
+    <state width="1176" height="79" key="GridCell.Tab.1.left" timestamp="1622364871416">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1176" height="79" key="GridCell.Tab.1.left/0.0.1234.783@0.0.1234.783" timestamp="1622364871416" />
+    <state width="1176" height="79" key="GridCell.Tab.1.right" timestamp="1622364871416">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1176" height="79" key="GridCell.Tab.1.right/0.0.1234.783@0.0.1234.783" timestamp="1622364871416" />
+    <state width="210" height="477" key="HiddenNamespacesPopup" timestamp="1621951484316">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="210" height="477" key="HiddenNamespacesPopup/0.0.1234.783@0.0.1234.783" timestamp="1621951484316" />
+    <state x="148" y="46" key="Maven.ArtifactSearchDialog" timestamp="1621857398618">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="148" y="46" key="Maven.ArtifactSearchDialog/0.0.1234.783@0.0.1234.783" timestamp="1621857398618" />
+    <state x="119" y="0" key="SettingsEditor" timestamp="1621951092919">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="119" y="0" key="SettingsEditor/0.0.1234.783@0.0.1234.783" timestamp="1621951092919" />
+    <state x="210" y="124" key="Vcs.Push.Dialog.v2" timestamp="1622345994335">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="210" y="124" key="Vcs.Push.Dialog.v2/0.0.1234.783@0.0.1234.783" timestamp="1622345994335" />
+    <state x="418" y="169" key="chooseDestDirectoryDialog" timestamp="1621775509670">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="418" y="169" key="chooseDestDirectoryDialog/0.0.1234.783@0.0.1234.783" timestamp="1621775509670" />
+    <state x="424" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622192886698">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="424" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1234.783@0.0.1234.783" timestamp="1622192886698" />
+    <state x="58" y="0" width="1190" height="762" key="dock-window-1" timestamp="1622353852596">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="58" y="0" width="1190" height="762" key="dock-window-1/0.0.1234.783@0.0.1234.783" timestamp="1622353852596" />
+    <state x="318" y="0" width="597" height="783" key="find.popup" timestamp="1618899915061">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="318" y="0" width="597" height="783" key="find.popup/0.0.1234.783@0.0.1234.783" timestamp="1618899915061" />
+    <state x="0" y="3" key="new project wizard" timestamp="1622083586158">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="0" y="3" key="new project wizard/0.0.1234.783@0.0.1234.783" timestamp="1622083586158" />
+    <state x="280" y="104" width="672" height="678" key="search.everywhere.popup" timestamp="1622021654993">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="280" y="104" width="672" height="678" key="search.everywhere.popup/0.0.1234.783@0.0.1234.783" timestamp="1622021654993" />
+    <state x="298" y="74" key="spring file set editor" timestamp="1618982758955">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="298" y="74" key="spring file set editor/0.0.1234.783@0.0.1234.783" timestamp="1618982758955" />
+  </component>
+</project>
